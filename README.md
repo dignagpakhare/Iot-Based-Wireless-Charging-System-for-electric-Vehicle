@@ -31,3 +31,6 @@ emphasizing efficient wireless power transfer through factors like
 resonance frequency alignment and non-radiative magnetic coupling
 to reduce energy consumption for medium to long-range
 transmission.
+
+![image](https://github.com/user-attachments/assets/cad73898-d5d7-40b6-bf0f-5d853df4ba4d)
+
